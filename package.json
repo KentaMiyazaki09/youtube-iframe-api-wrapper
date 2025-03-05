@@ -1,7 +1,8 @@
 {
-  "name": "youtube-api-wrapper",
+  "name": "tool-youtube-api-wrapper",
   "version": "1.0.0",
   "description": "Youtube iframe APIをラップしたライブラリーです。",
+  "type": "module",
   "main": "index.js",
   "module": "src/index.js",
   "scripts": {
@@ -9,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KentaMiyazaki09/youtube-api-wrapper.git"
+    "url": "git+https://github.com/KentaMiyazaki09/youtube-iframe-api-wrapper.git"
   },
   "author": "KentaMiyazaki09",
   "license": "MIT"
