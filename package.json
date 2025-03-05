@@ -1,6 +1,6 @@
 {
   "name": "tool-youtube-api-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Youtube iframe APIをラップしたライブラリーです。",
   "type": "module",
   "main": "index.js",
