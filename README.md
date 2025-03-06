@@ -1,7 +1,9 @@
 # YouTube iframe API Wrapper
 
 ## インストール
-npmでインストールする場合
+
+・npm
+https://www.npmjs.com/package/youtube-iframe-api-wrapper
 
 ```sh
 npm install youtube-iframe-api-wrapper
