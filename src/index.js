@@ -1,1 +1,1 @@
-export default'./youtube-iframe-api-wrapper'
+export { youtubeIframeAPIWrapper as default } from './youtube-iframe-api-wrapper';

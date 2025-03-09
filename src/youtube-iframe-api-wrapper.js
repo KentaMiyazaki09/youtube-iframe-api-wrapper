@@ -30,7 +30,7 @@ const loadYouTubeAPI = (() => {
  * @param { string } id 動画のID
  * @param { Object } options YoUtube iframe API options
  */
-export default async function youtubeIframeAPIWrapper(display, videId, options) {
+export async function youtubeIframeAPIWrapper(display, videId, options) {
   try {
     const YT = await loadYouTubeAPI()
 
