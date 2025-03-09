@@ -1,4 +1,4 @@
-import { youtubeIframeAPIWrapper } from '/src/youtube-iframe-api-wrapper.js'
+import youtubeIframeAPIWrapper from '/src/youtube-iframe-api-wrapper.js'
 
 const display = 'display'
 const videoID = 'vv7mq4dGm4o'
