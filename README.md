@@ -1,7 +1,7 @@
 # YouTube iframe API Wrapper
+Youtube iframe APIをラップしたライブラリです。
 
 ## インストール
-npmでインストールする場合
 
 ```sh
 npm install youtube-iframe-api-wrapper
